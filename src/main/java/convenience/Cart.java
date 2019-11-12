@@ -11,5 +11,4 @@ import java.util.Map;
 public class Cart {
 
     Map<Product, Integer> products;
-
 }
